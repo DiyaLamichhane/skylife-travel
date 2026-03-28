@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/skylife-travel/static/css/main.369a3b59.css",
+    "main.css": "/skylife-travel/static/css/main.850ec455.css",
     "main.js": "/skylife-travel/static/js/main.c814e45b.js",
     "index.html": "/skylife-travel/index.html",
-    "main.369a3b59.css.map": "/skylife-travel/static/css/main.369a3b59.css.map",
+    "main.850ec455.css.map": "/skylife-travel/static/css/main.850ec455.css.map",
     "main.c814e45b.js.map": "/skylife-travel/static/js/main.c814e45b.js.map"
   },
   "entrypoints": [
-    "static/css/main.369a3b59.css",
+    "static/css/main.850ec455.css",
     "static/js/main.c814e45b.js"
   ]
 }
